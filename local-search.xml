@@ -12,18 +12,11 @@
     
     
     
-  </entry>
-  
-  
-  
-  <entry>
-    <title></title>
-    <link href="/2025/04/01/kaoyan/"/>
-    <url>/2025/04/01/kaoyan/</url>
-    
-    <content type="html"><![CDATA[<!-- 我选了最难的计算机考研科目408，下班时间之后我回家做题学习，但是很快发现跟的王道的课程难以理解，跟的汤家凤高数学习也很难输出，发现听的全懂，做的题都不会。但是我没有放弃，可是直到10月，我报名了考研考试，23年疫情封控接触后，刚好考试那几天第一次阳了发烧，就没去考试了。2023年我早早地准备了考研的学习路线，希望充分准备，陆陆续续地学习，但是我发现自己的学习效率非常低，每天都在学习，但是没有产出。最后12月去考了，发现英语和政治竟然考的还可以，就是数学和408考的像没学过一样考得特别差。我当时想好了24年再考一次的。24年年初，我把所有的考试资料都买好了，还买了一个计算机考研的网课。后面我想通了，第1点，读研需要花费3年时间，占用周末去学校学习，工作日上班。在我看来，计算机科学的学习，不一定要拿到个硕士文凭，而是要在项目中成长的，其实有兴趣自学也是可以达到自己目的的。第2点，我发现我是出自工作的焦虑而考虑考研提升学历，但是学校里面读硕士主要还是为一些学术类研究做人才储备的，我也在考虑我是否适合做学术研究而非项目开发。 --><p>待更新……</p>]]></content>
-    
-    
+    <tags>
+      
+      <tag>Vue3</tag>
+      
+    </tags>
     
   </entry>
   
@@ -49,19 +42,6 @@
       <tag>Tech Growth</tag>
       
     </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2025/01/03/hello-world/"/>
-    <url>/2025/01/03/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
     
   </entry>
   
